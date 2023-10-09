@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@splinetool/loader": "^0.9.473",
+    "three": "^0.157.0"
+  },
+  "devDependencies": {
+    "vite": "^4.4.11"
+  }
+}
